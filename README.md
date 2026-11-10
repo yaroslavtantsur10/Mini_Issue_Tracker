@@ -1,3 +1,19 @@
+## Figma Design
+
+**Design file:**  
+https://www.figma.com/design/B5nr6SR4YnQztz8cmqTPaa/Untitled?node-id=0-1
+
+**Project:** Mini Issue Tracker
+
+**Deliverable:** Low-fidelity desktop wireframes
+and clickable UX/UI prototype.
+
+**Scope:** Release MVP, US-01–US-08.
+
+**Limitations:** The prototype demonstrates
+predefined UI states and navigation.
+It does not implement authentication,
+database persistence, or backend logic.
 Mini Issue Tracker — UX/UI Design
 
 Практична робота
